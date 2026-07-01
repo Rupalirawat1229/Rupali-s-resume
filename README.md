@@ -1,5 +1,4 @@
-# Rupali-s-resume
-Full Stack developer — BCA Final Year Project 
+
 # Rupali Rawat — Resume
 
 Full Stack Developer (MERN Stack) | Software Engineering A
